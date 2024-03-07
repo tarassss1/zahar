@@ -33,6 +33,7 @@ p {
 }
 section {
     display: flex;
+    padding-left: 150px;
 }
 div {
     width: 300px;
@@ -61,4 +62,9 @@ div {
 .c1 {
     text-align: center;
     font-family: "Courier New";
+}
+
+img {
+    width: 90%;
+    border: 3px solid white:
 }
