@@ -24,7 +24,7 @@ h1 {
 }
 img {
     width: 90%;
-    border: 10px solid white;
+    margin-left: 5px;
 }
 
 p {
@@ -34,7 +34,7 @@ p {
 }
 section {
     display: flex;
-    padding-left: 250px;
+    padding-left: 400px;
 }
 div {
     width: 300px;
