@@ -23,7 +23,8 @@ h1 {
     font-family: "Courier New";
 }
 img {
-    width: 100%;
+    width: 90%;
+    border: 3px solid white:
 }
 
 p {
@@ -64,7 +65,4 @@ div {
     font-family: "Courier New";
 }
 
-img {
-    width: 90%;
-    border: 3px solid white:
-}
+
